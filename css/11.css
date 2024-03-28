@@ -98,9 +98,9 @@
 
 .form-group-c button.btn-primary.submit {
     margin-top: 30px;
-    background-color: rgb(135, 32, 82) !important; /* Primary blue color */
+    background-color: rgb(235, 145, 87) !important; /* Primary blue color */
     color: white !important; /* White text color */
-    border-color: #ff0000; /* Maintain border color consistency */
+    border-color: rgb(235, 145, 87) !important; /* Primary blue color */
     text-align: center; /* Center the text within the button */
     border-radius: 0%;
     padding: 5px 10px !important ;
